@@ -1,0 +1,9 @@
+{
+    "template": "user_batch_update_confirm",
+    "description": "Include additional batch update actions.",
+    "execution_order": 10,
+    "enabled": true,
+    "action": "str_replace",
+    "find": "<xf:option name=\"actions[remove_website]\">{{ phrase('remove_websites') }}</xf:option>",
+    "replace": "$0\n<xf:option name=\"actions[reset_passwords]\" label=\"{{ phrase('tg_bpr_reset_passwords') }}\">\n\t<xf:checkbox>\n\t\t<xf:option name=\"actions[invalidate_passwords]\" label=\"{{ phrase('tg_bpr_invalidate_passwords') }}\"\n\t\t\t\t   hint=\"{{ phrase('tg_bpr_invalidate_passwords_explain') }}\" />\n\t</xf:checkbox>\n</xf:option>"
+}

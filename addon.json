@@ -1,0 +1,16 @@
+{
+    "legacy_addon_id": "",
+    "title": "[TG] Batch password reset",
+    "description": "",
+    "version_id": 1000010,
+    "version_string": "1.0.0 Alpha",
+    "dev": "TechGate Studio",
+    "dev_url": "https://tgstudio.ru",
+    "faq_url": "",
+    "support_url": "",
+    "extra_urls": {
+        "West": "https://t.me/West99"
+    },
+    "require": [],
+    "icon": "far fa-key"
+}

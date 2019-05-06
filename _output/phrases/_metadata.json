@@ -1,0 +1,38 @@
+{
+    "tg_bpr_invalidate_passwords.txt": {
+        "global_cache": true,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "d681bb29c68ad33f2074b7596c4f3145"
+    },
+    "tg_bpr_invalidate_passwords_explain.txt": {
+        "global_cache": true,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "c3e067cdea4c965a8512fc8c0dafdfd6"
+    },
+    "tg_bpr_reset_passwords.txt": {
+        "global_cache": true,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "ce71f48762d146e528efdbb704db9ed2"
+    },
+    "tg_bpr_user_password_invalidate_body_html.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "3fc0aa33502dca62fdfec4ab42132eec"
+    },
+    "tg_bpr_user_password_invalidate_subject.txt": {
+        "global_cache": true,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "051f148fc419b9c546d97c5c39ca6237"
+    },
+    "tg_brp_you_cannot_reset_and_invalidate_passwords_at_the_same_time.txt": {
+        "global_cache": true,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "607f5e9d24040dadd0131b1a1c641279"
+    }
+}
